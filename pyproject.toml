@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "deepagents>=0.4.7",
+    "fastmcp>=3.1.1",
     "gymnasium[toy-text]>=1.2.3",
     "jupyterlab>=4.4.9",
     "langchain>=1.2.10",
@@ -13,6 +14,7 @@ dependencies = [
     "langchain-mcp-adapters>=0.2.2",
     "langchain-openai>=1.1.10",
     "langchain-text-splitters>=1.1.1",
+    "langgraph>=1.0.8",
     "matplotlib>=3.10.7",
     "mcp>=1.26.0",
     "mlxtend>=0.23.4",
